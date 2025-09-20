@@ -1,8 +1,10 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 <h3>AIM:</h3>
-<h3>ENTER YOUR NAME:GAYATHRI K</h3>
-<h3>ENTER YOUR REGISTER NO: 212223230061</h3>
+To perform matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
+
+<h3> NAME:GAYATHRI K</h3>
+<h3>REGISTER NO: 212223230061</h3>
 <h3>EX. NO 1</h3>
 <h3>DATE:20.09.2025 </h3>
 <h1> <alin=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
